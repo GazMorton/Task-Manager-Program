@@ -11,5 +11,15 @@ You must import datetime module and also define the colour variables at the begi
 
 Project Walkthrough:
 When you run the project you will be faced with a main menu containing options such as register a user, view all tasks etc. etc
-if you select register a user you will be prompted for a new username and password 
+if you select register a user you will be prompted for a new username and password
+if the user selects view my tasks they will be shown a list of all tasks assigned to them and also have the option to edit the task or mark it as complete
+if the user selects add task they will be prompted to enter all the data for this task
+if the user select view all they will be shown a list of every task in the system
+if the user is an admin they will be able to generate reports which will show which tasks are overdue and various metrics such as count of uncomplete tasks etc.
+
+![0B1A52E5-0AF1-4575-85D4-F85752916A4D](https://user-images.githubusercontent.com/124776767/217526591-ed5222c7-20ca-4327-b37a-2b7a9bc0e2eb.jpeg)
+
+
+Credits:
+Gareth Morton
 
