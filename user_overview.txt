@@ -1,0 +1,87 @@
+════════════════════ USER OVERVIEW REPORT ═════════════════════
+Number of Users:				14
+Number of Tasks:				15
+∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞ admin ∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞
+Total Number of Tasks:			1
+% of Total Number of Tasks:		6.7
+% of Tasks Completed:			100.0
+% of Tasks Uncompleted:			0.0
+% of Tasks Overdue:				0.0
+∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞ gaz ∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞
+Total Number of Tasks:			0
+% of Total Number of Tasks:		0.0
+% of Tasks Completed:			0.0
+% of Tasks Uncompleted:			0.0
+% of Tasks Overdue:				0.0
+∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞ Jeff ∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞
+Total Number of Tasks:			8
+% of Total Number of Tasks:		53.3
+% of Tasks Completed:			50.0
+% of Tasks Uncompleted:			50.0
+% of Tasks Overdue:				25.0
+∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞ karlcox ∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞
+Total Number of Tasks:			1
+% of Total Number of Tasks:		6.7
+% of Tasks Completed:			100.0
+% of Tasks Uncompleted:			0.0
+% of Tasks Overdue:				0.0
+∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞ vicky ∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞
+Total Number of Tasks:			0
+% of Total Number of Tasks:		0.0
+% of Tasks Completed:			0.0
+% of Tasks Uncompleted:			0.0
+% of Tasks Overdue:				0.0
+∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞ bobby ∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞
+Total Number of Tasks:			0
+% of Total Number of Tasks:		0.0
+% of Tasks Completed:			0.0
+% of Tasks Uncompleted:			0.0
+% of Tasks Overdue:				0.0
+∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞ jay ∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞
+Total Number of Tasks:			0
+% of Total Number of Tasks:		0.0
+% of Tasks Completed:			0.0
+% of Tasks Uncompleted:			0.0
+% of Tasks Overdue:				0.0
+∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞ abbie ∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞
+Total Number of Tasks:			1
+% of Total Number of Tasks:		6.7
+% of Tasks Completed:			100.0
+% of Tasks Uncompleted:			0.0
+% of Tasks Overdue:				0.0
+∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞ carly ∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞
+Total Number of Tasks:			0
+% of Total Number of Tasks:		0.0
+% of Tasks Completed:			0.0
+% of Tasks Uncompleted:			0.0
+% of Tasks Overdue:				0.0
+∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞ kai ∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞
+Total Number of Tasks:			2
+% of Total Number of Tasks:		13.3
+% of Tasks Completed:			0.0
+% of Tasks Uncompleted:			100.0
+% of Tasks Overdue:				50.0
+∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞ tom ∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞
+Total Number of Tasks:			1
+% of Total Number of Tasks:		6.7
+% of Tasks Completed:			0.0
+% of Tasks Uncompleted:			100.0
+% of Tasks Overdue:				100.0
+∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞ cal ∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞
+Total Number of Tasks:			1
+% of Total Number of Tasks:		6.7
+% of Tasks Completed:			0.0
+% of Tasks Uncompleted:			100.0
+% of Tasks Overdue:				0.0
+∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞ eddie ∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞
+Total Number of Tasks:			0
+% of Total Number of Tasks:		0.0
+% of Tasks Completed:			0.0
+% of Tasks Uncompleted:			0.0
+% of Tasks Overdue:				0.0
+∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞ gregggg ∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞
+Total Number of Tasks:			0
+% of Total Number of Tasks:		0.0
+% of Tasks Completed:			0.0
+% of Tasks Uncompleted:			0.0
+% of Tasks Overdue:				0.0

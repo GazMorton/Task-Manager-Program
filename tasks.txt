@@ -1,0 +1,15 @@
+Jeff, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Jan 2023, Yes
+abbie, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 04 Jan 2023, Yes
+Jeff, dog walk, take the dog out for a walk, 03 Jan 2023, 17 Mar 2024, No
+admin, feed fish, pour fish food in tank, 15 Jan 2023, 16 Jan 2023, Yes
+kai, jog, go jogging around park, 10 Jan 2023, 14 Jan 2023, No
+karlcox, dj, dj for weekend in ibiza, 05 Jan 2023, 10 Jan 2023, Yes
+tom, move, move back to liverpool, 09 Jan 2023, 11 Jan 2023, No
+kai, nails, clip toenails, 13 Jan 2023, 21 Jan 2023, No
+cal, job search, look for job on indeed, 31 Dec 2023, 31 Jan 2023, No
+Jeff, umbrella, stay dry when in rain, 16 Jan 2023, 23 Jan 2023, No
+Jeff, House move, pack clothes in box and move house, 13 Jan 2023, 20 Jan 2023, No
+Jeff, watch film, buy cheaper by the dozen, 16 Jan 2023, 18 Jan 2023, Yes
+Jeff, Cheese, eat babybells all day, 10 Jan 2023, 11 Jan 2023, Yes
+Jeff, clean teeth, clean molars please, 05 Jan 2023, 10 Jan 2023, Yes
+Jeff, cracker, gromit, 14 Dec 2021, 15 Dec 2022, No
