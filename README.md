@@ -16,9 +16,12 @@ if the user selects view my tasks they will be shown a list of all tasks assigne
 if the user selects add task they will be prompted to enter all the data for this task
 if the user select view all they will be shown a list of every task in the system
 if the user is an admin they will be able to generate reports which will show which tasks are overdue and various metrics such as count of uncomplete tasks etc.
+Please see screenshots below to see some of the program in action:
 
 ![0B1A52E5-0AF1-4575-85D4-F85752916A4D](https://user-images.githubusercontent.com/124776767/217526591-ed5222c7-20ca-4327-b37a-2b7a9bc0e2eb.jpeg)
-
+![90E1FAE3-6405-4FBB-ACAD-1ADA256C511A](https://user-images.githubusercontent.com/124776767/217528070-5efd3f09-e777-4dfb-b257-1f5bf2f8a520.jpeg)
+![F4D932AF-8F5E-46B3-B386-CBEAA94A1F99](https://user-images.githubusercontent.com/124776767/217528089-4ba9102b-7a21-4d37-8b53-4f934effeede.jpeg)
+![56AABA71-8B44-4915-9350-41083F6808C7](https://user-images.githubusercontent.com/124776767/217528100-7433d0a9-0e75-4927-a595-7d8a7042f48e.jpeg)
 
 Credits:
 Gareth Morton
