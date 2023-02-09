@@ -3,12 +3,12 @@ Project name:
 Task Manager
 
 Project Description:
-This project is a task manager system designed to assist users in performing various operations such as adding a new user, adding a new task, reassigning tasks to different users and viewing statistics in the form of reports
+This project is a task manager system designed to assist users in performing various operations such as adding a new user, adding a new task, reassigning tasks to different users and viewing statistics in the form of reports.
 
 Installation:
-For this project to work locally you must have the python extension downloaded and python installed on your mac/windows/operating system
+For this project to work locally you must have the python extension downloaded and python installed on your mac/windows/operating system.
 You must import datetime module and also define the colour variables at the beginning of the project for the colours to appear in the program
-Please ensure that you have the supplementary txt files in the same folder as the python py file, if the program does not run it may be because the file paths of the txt files are incorrect
+Please ensure that you have the supplementary txt files in the same folder as the python py file, if the program does not run it may be because the file paths of the txt files are incorrect.
 
 Project Walkthrough:
 The project works by reading tasks from the tasks.txt file and also stores registered users in the users.txt file.
