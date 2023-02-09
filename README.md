@@ -17,7 +17,8 @@ if you are the admin user, you can select register a user and you will be prompt
 if the user selects view my tasks they will be shown a list of all tasks assigned to them and also have the option to edit the task or mark it as complete
 if the user selects add task they will be prompted to enter all the data for this task.
 if the user select view all they will be shown a list of every task in the system.
-if the user is an admin they will be able to generate reports which will show which tasks are overdue and various metrics such as count of uncomplete tasks etc. This option will write the reports to new txt files called tasks_overview.txt and user_overview.txt
+if you choose to display statisitics, this will present some stats in the console as well as generate the reports that are made if you select 'gr'
+if the user is an admin they will be able to generate reports by entering 'gr' which will write the reports to new txt files called tasks_overview.txt and user_overview.txt
 
 Please see screenshots below to see some of the program in action:
 
