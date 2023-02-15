@@ -7,7 +7,7 @@ This project is a task manager system designed to assist users in performing var
 
 Installation:
 For this project to work locally you must have the python extension downloaded and python installed on your mac/windows/operating system.
-You must import datetime module and also define the colour variables at the beginning of the project for the colours to appear in the program
+You must import datetime module and also define the colour variables at the beginning of the project for the colours to appear in the program.
 Please ensure that you have the supplementary txt files in the same folder as the python py file, if the program does not run it may be because the file paths of the txt files are incorrect.
 
 Project Walkthrough:
