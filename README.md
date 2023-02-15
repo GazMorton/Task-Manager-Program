@@ -14,10 +14,10 @@ Project Walkthrough:
 The project works by reading tasks from the tasks.txt file and also stores registered users in the users.txt file.
 When you run the project you will be faced with a main menu containing options such as register a user, view all tasks etc. etc.
 if you are the admin user, you can select register a user and you will be prompted for a new username and password, the program will check to ensure there is no duplicate usernames in the user.txt file, it will also confirm the chosen password.
-if the user selects view my tasks they will be shown a list of all tasks assigned to them and also have the option to edit the task or mark it as complete
+if the user selects view my tasks they will be shown a list of all tasks assigned to them and also have the option to edit the task or mark it as complete.
 if the user selects add task they will be prompted to enter all the data for this task.
 if the user select view all they will be shown a list of every task in the system.
-if you choose to display statisitics, this will present some stats in the console as well as generate the reports that are made if you select 'gr'
+if you choose to display statisitics, this will present some stats in the console as well as generate the reports that are made if you select 'gr'.
 if the user is an admin they will be able to generate reports by entering 'gr' which will write the reports to new txt files called tasks_overview.txt and user_overview.txt
 
 Please see screenshots below to see some of the program in action:
